@@ -117,7 +117,6 @@
     </Compile>
     <Compile Include="Models\Expense.cs" />
     <Compile Include="Models\Login.cs" />
-    <Compile Include="Models\TimeDetails.cs" />
     <Compile Include="Models\Timesheet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
