@@ -17,6 +17,8 @@ namespace ArchDemo.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
+            //Changes from pinkyrgandhi
+
             return View();
         }
 
